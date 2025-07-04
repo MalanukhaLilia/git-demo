@@ -1,2 +1,2 @@
 # git-demo
-гілкa main
+гілкa my-feature
